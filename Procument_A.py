@@ -120,4 +120,5 @@ if page == "Purchasing":
 elif page == "Construction":
     display_procurement_page("Construction")
 else:
-    display_procurement_page("Medical_Equipment")
+    display_procurement_page("Medical Equipment")
+
